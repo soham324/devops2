@@ -1,4 +1,4 @@
-Name:Sumeet Singh Thakur
+Name:Soham patra
 Subject:CDD LAB
 Expriment:Git Operations
 DOB:05-08-06
